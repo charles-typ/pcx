@@ -3,7 +3,7 @@
 mst start
 
 if [[ $# -eq 0 ]]; then
-  device=mlx5_1
+  device=mlx5_0
 else
   device=$1
 fi
